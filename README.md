@@ -32,5 +32,8 @@
   [![License: mit](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   https://note-tracker.herokuapp.com/notes
+  <iframe src="https://drive.google.com/file/d/1nXQV5azzvDrS8CfKlkZD-L0GP73CrjqP/preview" width="640" height="480"></iframe>
+  ![image](https://user-images.githubusercontent.com/114010089/213347848-fc4d5224-9b08-4a51-ac50-ccb4fe3b270c.png)
+
 
 

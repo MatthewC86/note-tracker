@@ -36,7 +36,11 @@
   
   
   
-  https://note-tracker.herokuapp.com/notes
+https://github.com/MatthewC86/note-tracker<br>
+https://note-tracker.herokuapp.com/notes
+
+Video:
+https://drive.google.com/file/d/1nXQV5azzvDrS8CfKlkZD-L0GP73CrjqP/view
  
   ![image](https://user-images.githubusercontent.com/114010089/213347848-fc4d5224-9b08-4a51-ac50-ccb4fe3b270c.png)
 
